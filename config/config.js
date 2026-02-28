@@ -9,16 +9,16 @@
 
 const CONFIG = {
   // Bot invite link - users will be redirected here when clicking "Invite Kali Billi"
-  botInviteUrl: "https://discord.com/api/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&permissions=8&scope=bot",
+  botInviteUrl: "https://discord.com/api/oauth2/authorize?client_id=1150754451938869371&permissions=8&scope=bot",
   
   // Support server invite link - users will be redirected here for support
-  supportServerUrl: "https://discord.gg/YOUR_SERVER_INVITE_CODE",
+  supportServerUrl: "https://discord.gg/RfeewVj3Fp",
   
   // Bot name (for display)
-  botName: "Kali Billi",
+  botName: "Robotics Music",
   
   // Bot description
-  botDescription: "Your Cute Discord Companion - Fun, moderation, and AI chat for your Discord server."
+  botDescription: "Robotics Music is a fast, stable Discord music bot delivering high-quality audio and smooth playback for your server ."
 };
 
 // Export for use in browsers
